@@ -4,7 +4,9 @@
     "sources": [
         "../../sass/main.scss",
         "../../sass/abstracts/_variables.scss",
-        "../../sass/base/_reset.scss"
+        "../../sass/base/_reset.scss",
+        "../../sass/pages/_title-page.scss",
+        "../../sass/layout/navbar.scss"
     ],
     "names": [],
     "file": "main.min.css"
