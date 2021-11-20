@@ -1,3 +1,14 @@
 #contact-page {
     background-color: $off-white;
+
+    flex-flow: column wrap;
+    justify-content: center;
+
+    section {
+        height: 90%;
+    }
+
+    nav {
+        height: 10%;
+    }
 }
