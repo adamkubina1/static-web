@@ -1,15 +1,17 @@
-// ABSTRACTS
-@import 'abstracts/variables';
-
 // BASE
 @import 'base/reset';
 
+// ABSTRACTS
+@import 'abstracts/variables';
+
 // PAGES
+@import 'pages/page-section';
 @import 'pages/title-page';
 @import 'pages/about-page';
-@import 'pages/ytube-page';
-@import 'pages/twitch-page';
+@import 'pages/channels-page';
+@import 'pages/content-page';
 @import 'pages/contact-page';
 
 // LAYOUT
+@import 'layout/main';
 @import 'layout/navbar';
