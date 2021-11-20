@@ -1,12 +1,18 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,AAAA,CAAC,CAAE,CAAC,AAAA,OAAO,CAAE,CAAC,AAAA,MAAM,AAAA,CAChB,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,CAAC,AAAA,CACG,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,MAAM,CAAE,CAAC,CACT,SAAS,CAAE,IAAI,CACf,IAAI,CAAE,OAAO,CACb,cAAc,CAAE,QAAQ,CACxB,cAAc,CAAE,kBAAkB,CAClC,sBAAsB,CAAE,WAAW,CACnC,gBAAgB,CAAE,IAAI,CAEtB,cAAc,CAAE,IAAI,CACpB,eAAe,CAAE,IAAI,CACrB,UAAU,CAAE,IAAI,CAChB,WAAW,CAAE,GAAG,CACnB,AAED,AAAA,IAAI,AAAC,CACH,eAAe,CAAE,MAAM,CACvB,gBAAgB,CAAE,WAAW,CAC9B,AAED,AAAA,MAAM,CAAE,MAAM,CAAE,GAAG,CAAE,OAAO,CAAE,IAAI,AAAA,CAC9B,OAAO,CAAE,KAAK,CACjB,AAED,AAAA,EAAE,CAAE,EAAE,AAAA,CACF,UAAU,CAAE,IAAI,CACnB,AAED,AAAA,UAAU,CAAE,CAAC,AAAA,CACT,MAAM,CAAE,IAAI,CACf,AAED,AAAA,UAAU,AAAA,OAAO,CAAE,UAAU,AAAA,MAAM,CAAE,CAAC,AAAA,OAAO,CAAE,CAAC,AAAA,MAAM,AAAA,CAClD,OAAO,CAAE,EAAE,CACX,OAAO,CAAE,IAAI,CAChB,AAED,AAAA,KAAK,AAAA,CACD,eAAe,CAAE,QAAQ,CACzB,cAAc,CAAE,CAAC,CACpB,AAED,AAAA,KAAK,AAAA,CACD,kBAAkB,CAAE,IAAI,CACxB,aAAa,CAAE,CAAC,CACnB,AEnDD,AAAA,aAAa,AAAC,CACV,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,KAAK,CAEb,iBAAiB,CAAE,KAAK,CAC3B,ACLD,AAAA,WAAW,AAAC,CACR,UAAU,CAAE,yCAAyC,CAAC,SAAS,CAAC,MAAM,CAAC,MAAM,CAAC,KAAK,CACnF,uBAAuB,CAAE,KAAK,CAC9B,oBAAoB,CAAE,KAAK,CAC3B,kBAAkB,CAAE,KAAK,CACzB,eAAe,CAAE,KAAK,CACzB,ACND,AAAA,WAAW,AAAA,CACP,gBAAgB,CHAb,OAAO,CGCb,ACFD,AAAA,cAAc,AAAC,CACX,gBAAgB,CJCR,OAAO,CIAlB,ACFD,AAAA,aAAa,AAAC,CACV,gBAAgB,CLAb,OAAO,CKCb,ACFD,AAAA,aAAa,AAAC,CACV,gBAAgB,CNCR,OAAO,CMAlB",
     "sources": [
         "../../sass/main.scss",
-        "../../sass/abstracts/_variables.scss",
         "../../sass/base/_reset.scss",
+        "../../sass/abstracts/_variables.scss",
+        "../../sass/pages/_page-section.scss",
         "../../sass/pages/_title-page.scss",
-        "../../sass/layout/navbar.scss"
+        "../../sass/pages/_about-page.scss",
+        "../../sass/pages/_channels-page.scss",
+        "../../sass/pages/_content-page.scss",
+        "../../sass/pages/_contact-page.scss",
+        "../../sass/layout/_main.scss",
+        "../../sass/layout/_navbar.scss"
     ],
     "names": [],
     "file": "main.min.css"
