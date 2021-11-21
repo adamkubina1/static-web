@@ -1,0 +1,24 @@
+// ABSTRACTS
+@import 'abstracts/variables';
+
+// BASE
+@import 'base/reset';
+@import 'base/typography';
+
+// PAGES
+@import 'pages/page-section';
+@import 'pages/title-page';
+@import 'pages/about-page';
+@import 'pages/channels-page';
+@import 'pages/content-page';
+@import 'pages/contact-page';
+
+// LAYOUT
+@import 'layout/navbar';
+@import 'layout/footer';
+@import 'layout/containers';
+
+// ANIMATIONS
+@import 'animations/shufle';
+@import 'animations/hover-nav';
+@import 'animations/hover-links';

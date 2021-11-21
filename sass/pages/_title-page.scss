@@ -1,0 +1,25 @@
+#title-page {
+    background: url(/resources/title-page-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+    #title-header {
+        font-weight: 600;
+        color: $off-white;
+    }
+
+    #title-under-header {
+        color: $off-white;
+        font-weight: 500;
+        font-size: 5vh;
+    }
+
+    #under-header-highlight {
+        color: $yellow;
+        font-weight: 500;
+        font-size: 5vh;
+    }
+}

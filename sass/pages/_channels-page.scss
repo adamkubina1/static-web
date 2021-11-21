@@ -1,0 +1,23 @@
+#channels-page {
+    background-color: $off-white;
+    .channels-img {
+        text-align: center;
+
+        img {
+            height: 30vh;
+            width: auto;
+            padding-bottom: 5%;
+
+            @media only screen and (max-width: 768px) {
+                height: 20vh;
+            }
+        }
+    }
+   
+
+    a {
+        color: $yellow;
+    }
+
+
+}

@@ -1,0 +1,28 @@
+#contact-page {
+    background-color: $off-white;
+
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+
+    #contact-container {
+        height: 90%;
+        
+
+        #link-holder {
+            display: flex;
+            
+            margin-top: 5%;
+            margin-bottom: 5%;
+            
+            padding-left: 10%;
+
+            img {
+                width: 50%;
+            }
+        }
+
+    }
+
+
+}
