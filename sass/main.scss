@@ -1,9 +1,9 @@
+// ABSTRACTS
+@import 'abstracts/variables';
+
 // BASE
 @import 'base/reset';
 @import 'base/typography';
-
-// ABSTRACTS
-@import 'abstracts/variables';
 
 // PAGES
 @import 'pages/page-section';
@@ -14,7 +14,6 @@
 @import 'pages/contact-page';
 
 // LAYOUT
-@import 'layout/main';
 @import 'layout/navbar';
 @import 'layout/footer';
 @import 'layout/containers';
