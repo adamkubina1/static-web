@@ -1,18 +1,11 @@
-// One collum content layout
-.one-col-layout {
-    width: 100%;
-
-    display: flex;
-    flex-flow: column wrap;
-    align-items: center;
-    justify-content: center;
-}
-
 
 
 //Two collum content layout
 .two-col-layout {
     width: 50%;
+
+    padding: 4% 4% 4% 4%;
+    
 
     display: flex;
     flex-flow: column wrap;
@@ -24,6 +17,8 @@
 
 .three-col-layout {
     width: 33%;
+
+    padding: 4% 4% 4% 4%;
 
     display: flex;
     flex-flow: column wrap;

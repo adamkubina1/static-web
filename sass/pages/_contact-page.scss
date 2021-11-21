@@ -6,9 +6,11 @@
 
     section {
         height: 90%;
+
+    }
+    #link-holder {
+        display: flex;
+        justify-content: space-between;
     }
 
-    nav {
-        height: 10%;
-    }
 }
