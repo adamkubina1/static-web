@@ -24,7 +24,10 @@
             a {
                 color: $yellow;
                 font-weight: 500;
-                font-size: 2.5vmin;
+                font-size: 3vmin;
+                @media only screen and (max-width: 768px) {
+                    font-size: 14px;
+                }
             }
         }
         
@@ -34,5 +37,17 @@
         margin: 0 0 2% 6%;
         width: 4vw;
         height: 4vh;
+        @media only screen and (max-width: 768px) {
+            width: 24px;
+            height: 24px;
+        }
     }
+
+
+
+    @media print {
+        display: none;
+    }
+
+    
 }
