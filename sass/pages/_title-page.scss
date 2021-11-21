@@ -4,4 +4,14 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+
+    #title-header {
+        font-weight: 600;
+        color: $off-white;
+    }
+
+    #title-under-header {
+        color: $off-white;
+    }
 }
