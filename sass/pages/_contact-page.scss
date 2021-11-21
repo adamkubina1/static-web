@@ -7,13 +7,18 @@
 
     section {
         height: 90%;
+        
 
         #link-holder {
             display: flex;
-            text-align: center;
-    
+            
+            margin-top: 5%;
+            margin-bottom: 5%;
+            
+            padding-left: 10%;
+
             img {
-                width: 40%;
+                width: 50%;
             }
         }
 
