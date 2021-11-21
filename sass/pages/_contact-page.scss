@@ -3,14 +3,21 @@
 
     flex-flow: column wrap;
     justify-content: center;
+    align-items: center;
 
     section {
         height: 90%;
 
+        #link-holder {
+            display: flex;
+            text-align: center;
+    
+            img {
+                width: 40%;
+            }
+        }
+
     }
-    #link-holder {
-        display: flex;
-        justify-content: space-between;
-    }
+
 
 }
