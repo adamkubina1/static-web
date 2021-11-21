@@ -1,9 +1,13 @@
 #content-page {
     background-color: $pale;
 
-    img {
-        width: 70%;
-        height: 70%;
-        padding-bottom: 5%;
+    a {
+        text-align: center;
+        img {
+            width: 70%;
+            height: 70%;
+            padding-bottom: 5%;
+        }
     }
+    
 }

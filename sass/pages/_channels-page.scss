@@ -1,10 +1,15 @@
 #channels-page {
     background-color: $off-white;
-    img {
-        width: 50%;
-        height: 50%;
-        padding-bottom: 5%;
+    .channels-img {
+        text-align: center;
+
+        img {
+            width: 50%;
+            height: 50%;
+            padding-bottom: 5%;
+        }
     }
+   
 
     a {
         color: $yellow;
