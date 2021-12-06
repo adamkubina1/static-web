@@ -1,9 +1,6 @@
 .hover-nav {
     transition: background-position 275ms ease;
     background: linear-gradient(to right, $cherry-red, $cherry-red 50%, $yellow 50%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     background-size: 200% 100%;
     background-position: 100%;
 }
