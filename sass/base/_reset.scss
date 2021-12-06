@@ -10,7 +10,6 @@
     font: inherit;
     vertical-align: baseline;
     text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
     text-size-adjust: none;
 
     text-transform: none;
@@ -47,6 +46,5 @@ table{
 }
 
 input{
-    -webkit-appearance: none;
     border-radius: 0;
 }
