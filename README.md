@@ -5,4 +5,4 @@
 
 ## My solution
 ![wanderbolt-title-page](https://user-images.githubusercontent.com/87360961/156837988-8d63de6d-93cf-435e-a8ff-5ae214949e7f.png)
-Live demo <a href="https://wanderbolt.netlify.app/" target="_blank">here</a>
+
